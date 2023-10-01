@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+<b>Hey! Nice to see you 👋.</b>
+</h1>
+<p>Welcome to my <b>Github Profile </b>! </br> 
+<img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="20" style="margin: 0; padding: 0;"/>
+<b>jawa timur, Indonesia</b>.</p>
 
-<!--
-**ach-faisal-rid/ach-faisal-rid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📉 **My Github Statistics**
 
-Here are some ideas to get you started:
+![ach-faisal-rid GitHub stats](https://github-readme-stats.vercel.app/api?username=ach-faisal-rid&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ach-faisal-rid&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![](https://komarev.com/ghpvc/?username=ach-faisal-rid) -->
