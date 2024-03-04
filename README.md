@@ -11,6 +11,21 @@
     Welcome to my <!>Github Profile ! <br> i'am <b>faisal achmad ridhani</b> </br> <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" 
     width="13" style="margin: 0; padding: 0;"/> <b>jawa timur, Indonesia</b>.
 </p>
+
+<h4>Tentang Saya</h4>
+<p>
+    Seorang web developer<b>(bukan cuma penulis kode : yang tidak bisa ngodein cewek)</b> <br> dan content creator <b>(bukan pembuat konten adanya cuma ikan teri)</b>
+</p>
+
+<h4>Kesibukan Saya</h4>
+<p>
+    seorang pengganguran tapi <b>jangan dikasih proyek nanti saya overthingking karena saya perfeksionis</b>.
+</p>
+<h4>waktu senggang</h4> <br> <strong>(setiap hari itu waktu senggang saya)</strong>
+<p>
+    saya senang <b>mempelajari teknologi baru, membaca buku, dan bermain game(nope)</b>.
+</p>
+
 <h4><b>💻 Programming Languages</b></h4>
 
 <p>
