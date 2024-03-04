@@ -14,17 +14,39 @@
 
 <h4>Tentang Saya</h4>
 <p>
-    Seorang web developer<b>(bukan cuma penulis kode : yang tidak bisa ngodein cewek)</b> <br> dan content creator <b>(bukan pembuat konten adanya cuma ikan teri)</b>
+  Web developer wannabe (jangan khawatir, saya tidak bisa ngodein cewek !) <br>
+  Content creator (tapi kontennya masih sebatas ikan teri, hehe).
 </p>
 
 <h4>Kesibukan Saya</h4>
 <p>
     seorang pengganguran tapi <b>jangan dikasih proyek nanti saya overthingking karena saya perfeksionis</b>.
 </p>
-<h4>waktu senggang</h4> <br> <strong>(setiap hari itu waktu senggang saya)</strong>
-<p>
-    saya senang <b>mempelajari teknologi baru, membaca buku, dan bermain game(nope)</b>.
-</p>
+
+<h2>Waktu Senggang (Setiap hari adalah waktu untuk mengembangkan diri!)</h2>
+<ul>
+  <li>
+    <h3>Mempelajari teknologi baru</h3>
+    <p>
+      Saya selalu ingin memperluas pengetahuan dan skillset saya di bidang teknologi.
+      Saya senang mengikuti perkembangan terbaru dalam industri teknologi dan mencoba berbagai teknologi baru.
+    </p>
+  </li>
+  <li>
+    <h3>Membaca buku</h3>
+    <p>
+      Saya suka membaca buku tentang berbagai macam topik, termasuk teknologi, bisnis, sejarah, dan biografi.
+      Membaca membantu saya untuk belajar hal baru dan memperluas wawasan saya.
+    </p>
+  </li>
+  <li>
+    <h3>Bermain game</h3>
+    <p>
+      Di waktu senggang, saya suka bermain game untuk relaksasi dan bersenang-senang.
+      Saya suka memainkan berbagai jenis game, seperti game strategi, game puzzle, dan game RPG.
+    </p>
+  </li>
+</ul>
 
 <h4><b>💻 Programming Languages</b></h4>
 
