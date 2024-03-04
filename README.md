@@ -14,8 +14,8 @@
 
 <h4>Tentang Saya</h4>
 <p>
-  Web developer wannabe (jangan khawatir, saya tidak bisa ngodein cewek !) <br>
-  Content creator (tapi kontennya masih sebatas ikan teri, hehe).
+  Web developer wannabe (jangan khawatir, saya tidak bisa ngodein cewek !)  &#128512; <br>
+  Content creator (tapi kontennya masih sebatas ikan teri, hehe). &#128522;
 </p>
 
 <h4>Kesibukan Saya</h4>
