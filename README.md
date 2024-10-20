@@ -17,6 +17,21 @@
 <p>
   Web developer wannabe (jangan khawatir, saya tidak bisa ngodein cewek !)  &#128512; <br>
   Content creator (tapi kontennya masih sebatas ikan teri, hehe). &#128522;
+
+💔🔍 **Skill**:  
+- Tidak punya skill mengoda cewek  
+- Tertarik pada hal-hal yang membuat saya tertarik  
+
+🗣️ **Komunikasi**:  
+- Komunikasi minus  
+- + Bisa bertanya 🤔  
+- + Bisa membaca 📚  
+
+💻 **Developer**:  
+- Hobi saja  
+- Jika punya uang, ingin IoT 🌐  
+- Mimpi: membuat rumah untuk bencana apokaliptik 🏚️🚨
+  
 </p>
 
 <h4>Kesibukan Saya</h4>
