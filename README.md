@@ -1,5 +1,6 @@
-![ach-faisal-rid](https://komarev.com/ghpvc/?username=ach-faisal-rid) <br>
-![ach-faisal-rid](https://count.getloli.com/get/@:ach-faisal-rid)
+!🔗 [ach-faisal-rid](https://komarev.com/ghpvc/?username=ach-faisal-rid) <br>
+!🔗 [ach-faisal-rid](https://count.getloli.com/get/@:ach-faisal-rid) <br>
+! 🙌 [ach-faisal-rid](https://https://github.com/sponsors/ach-faisal-rid)
 
 <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
